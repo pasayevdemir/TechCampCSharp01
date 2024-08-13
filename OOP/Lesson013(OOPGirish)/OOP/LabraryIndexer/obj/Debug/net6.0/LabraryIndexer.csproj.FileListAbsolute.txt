@@ -1,0 +1,14 @@
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\LabraryIndexer\bin\Debug\net6.0\LabraryIndexer.exe
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\LabraryIndexer\bin\Debug\net6.0\LabraryIndexer.deps.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\LabraryIndexer\bin\Debug\net6.0\LabraryIndexer.runtimeconfig.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\LabraryIndexer\bin\Debug\net6.0\LabraryIndexer.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\LabraryIndexer\bin\Debug\net6.0\LabraryIndexer.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\LabraryIndexer\obj\Debug\net6.0\LabraryIndexer.GeneratedMSBuildEditorConfig.editorconfig
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\LabraryIndexer\obj\Debug\net6.0\LabraryIndexer.AssemblyInfoInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\LabraryIndexer\obj\Debug\net6.0\LabraryIndexer.AssemblyInfo.cs
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\LabraryIndexer\obj\Debug\net6.0\LabraryIndexer.csproj.CoreCompileInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\LabraryIndexer\obj\Debug\net6.0\LabraryIndexer.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\LabraryIndexer\obj\Debug\net6.0\refint\LabraryIndexer.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\LabraryIndexer\obj\Debug\net6.0\LabraryIndexer.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\LabraryIndexer\obj\Debug\net6.0\LabraryIndexer.genruntimeconfig.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\LabraryIndexer\obj\Debug\net6.0\ref\LabraryIndexer.dll

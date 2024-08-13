@@ -1,0 +1,14 @@
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Inhertance\bin\Debug\net6.0\Inhertance.exe
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Inhertance\bin\Debug\net6.0\Inhertance.deps.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Inhertance\bin\Debug\net6.0\Inhertance.runtimeconfig.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Inhertance\bin\Debug\net6.0\Inhertance.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Inhertance\bin\Debug\net6.0\Inhertance.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Inhertance\obj\Debug\net6.0\Inhertance.GeneratedMSBuildEditorConfig.editorconfig
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Inhertance\obj\Debug\net6.0\Inhertance.AssemblyInfoInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Inhertance\obj\Debug\net6.0\Inhertance.AssemblyInfo.cs
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Inhertance\obj\Debug\net6.0\Inhertance.csproj.CoreCompileInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Inhertance\obj\Debug\net6.0\Inhertance.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Inhertance\obj\Debug\net6.0\refint\Inhertance.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Inhertance\obj\Debug\net6.0\Inhertance.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Inhertance\obj\Debug\net6.0\Inhertance.genruntimeconfig.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Inhertance\obj\Debug\net6.0\ref\Inhertance.dll

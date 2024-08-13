@@ -1,0 +1,14 @@
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Structs\bin\Debug\net6.0\Structs.exe
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Structs\bin\Debug\net6.0\Structs.deps.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Structs\bin\Debug\net6.0\Structs.runtimeconfig.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Structs\bin\Debug\net6.0\Structs.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Structs\bin\Debug\net6.0\Structs.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Structs\obj\Debug\net6.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Structs\obj\Debug\net6.0\Structs.AssemblyInfoInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Structs\obj\Debug\net6.0\Structs.AssemblyInfo.cs
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Structs\obj\Debug\net6.0\Structs.csproj.CoreCompileInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Structs\obj\Debug\net6.0\Structs.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Structs\obj\Debug\net6.0\refint\Structs.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Structs\obj\Debug\net6.0\Structs.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Structs\obj\Debug\net6.0\Structs.genruntimeconfig.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Structs\obj\Debug\net6.0\ref\Structs.dll

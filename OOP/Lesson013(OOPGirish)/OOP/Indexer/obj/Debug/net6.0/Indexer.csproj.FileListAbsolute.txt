@@ -1,0 +1,14 @@
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Indexer\bin\Debug\net6.0\Indexer.exe
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Indexer\bin\Debug\net6.0\Indexer.deps.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Indexer\bin\Debug\net6.0\Indexer.runtimeconfig.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Indexer\bin\Debug\net6.0\Indexer.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Indexer\bin\Debug\net6.0\Indexer.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Indexer\obj\Debug\net6.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Indexer\obj\Debug\net6.0\Indexer.AssemblyInfoInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Indexer\obj\Debug\net6.0\Indexer.AssemblyInfo.cs
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Indexer\obj\Debug\net6.0\Indexer.csproj.CoreCompileInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Indexer\obj\Debug\net6.0\Indexer.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Indexer\obj\Debug\net6.0\refint\Indexer.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Indexer\obj\Debug\net6.0\Indexer.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Indexer\obj\Debug\net6.0\Indexer.genruntimeconfig.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Indexer\obj\Debug\net6.0\ref\Indexer.dll

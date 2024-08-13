@@ -1,0 +1,14 @@
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson003\Operators\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson003\Operators\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson003\Operators\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson003\Operators\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson003\Operators\Operators\bin\Debug\net6.0\Operators.exe
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson003\Operators\Operators\bin\Debug\net6.0\Operators.deps.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson003\Operators\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson003\Operators\Operators\bin\Debug\net6.0\Operators.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson003\Operators\Operators\bin\Debug\net6.0\Operators.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson003\Operators\Operators\obj\Debug\net6.0\Operators.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson003\Operators\Operators\obj\Debug\net6.0\refint\Operators.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson003\Operators\Operators\obj\Debug\net6.0\Operators.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson003\Operators\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson003\Operators\Operators\obj\Debug\net6.0\ref\Operators.dll

@@ -1,0 +1,14 @@
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\TypeCopy\bin\Debug\net6.0\TypeCopy.exe
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\TypeCopy\bin\Debug\net6.0\TypeCopy.deps.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\TypeCopy\bin\Debug\net6.0\TypeCopy.runtimeconfig.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\TypeCopy\bin\Debug\net6.0\TypeCopy.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\TypeCopy\bin\Debug\net6.0\TypeCopy.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\TypeCopy\obj\Debug\net6.0\TypeCopy.GeneratedMSBuildEditorConfig.editorconfig
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\TypeCopy\obj\Debug\net6.0\TypeCopy.AssemblyInfoInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\TypeCopy\obj\Debug\net6.0\TypeCopy.AssemblyInfo.cs
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\TypeCopy\obj\Debug\net6.0\TypeCopy.csproj.CoreCompileInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\TypeCopy\obj\Debug\net6.0\TypeCopy.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\TypeCopy\obj\Debug\net6.0\refint\TypeCopy.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\TypeCopy\obj\Debug\net6.0\TypeCopy.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\TypeCopy\obj\Debug\net6.0\TypeCopy.genruntimeconfig.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\TypeCopy\obj\Debug\net6.0\ref\TypeCopy.dll

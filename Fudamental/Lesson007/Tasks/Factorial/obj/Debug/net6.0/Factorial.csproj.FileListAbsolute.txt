@@ -1,0 +1,14 @@
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson007\Tasks\Factorial\bin\Debug\net6.0\Factorial.exe
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson007\Tasks\Factorial\bin\Debug\net6.0\Factorial.deps.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson007\Tasks\Factorial\bin\Debug\net6.0\Factorial.runtimeconfig.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson007\Tasks\Factorial\bin\Debug\net6.0\Factorial.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson007\Tasks\Factorial\bin\Debug\net6.0\Factorial.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson007\Tasks\Factorial\obj\Debug\net6.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson007\Tasks\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfoInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson007\Tasks\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfo.cs
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson007\Tasks\Factorial\obj\Debug\net6.0\Factorial.csproj.CoreCompileInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson007\Tasks\Factorial\obj\Debug\net6.0\Factorial.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson007\Tasks\Factorial\obj\Debug\net6.0\refint\Factorial.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson007\Tasks\Factorial\obj\Debug\net6.0\Factorial.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson007\Tasks\Factorial\obj\Debug\net6.0\Factorial.genruntimeconfig.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson007\Tasks\Factorial\obj\Debug\net6.0\ref\Factorial.dll

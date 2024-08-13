@@ -1,0 +1,14 @@
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.exe
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.deps.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.runtimeconfig.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.AssemblyInfoInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.AssemblyInfo.cs
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.csproj.CoreCompileInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\BoxingUnboxing\obj\Debug\net6.0\refint\BoxingUnboxing.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.genruntimeconfig.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson008\Lesson8\BoxingUnboxing\obj\Debug\net6.0\ref\BoxingUnboxing.dll

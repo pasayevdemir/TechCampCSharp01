@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\00.TechCamp\\CSharp_2024-001\\00.Lessons\\Lesson008\\Lesson8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE107A08-BFFF-40BF-ABBC-25E79FCADFAE}|BoxingUnboxing\\BoxingUnboxing.csproj|e:\\00.techcamp\\csharp_2024-001\\00.lessons\\lesson008\\lesson8\\boxingunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE107A08-BFFF-40BF-ABBC-25E79FCADFAE}|BoxingUnboxing\\BoxingUnboxing.csproj|solutionrelative:boxingunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF2F70E-2336-444E-9A0D-50D601FBD993}|TypeCopy\\TypeCopy.csproj|e:\\00.techcamp\\csharp_2024-001\\00.lessons\\lesson008\\lesson8\\typecopy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF2F70E-2336-444E-9A0D-50D601FBD993}|TypeCopy\\TypeCopy.csproj|solutionrelative:typecopy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\00.TechCamp\\CSharp_2024-001\\00.Lessons\\Lesson008\\Lesson8\\BoxingUnboxing\\Program.cs",
+              "RelativeDocumentMoniker": "BoxingUnboxing\\Program.cs",
+              "ToolTip": "E:\\00.TechCamp\\CSharp_2024-001\\00.Lessons\\Lesson008\\Lesson8\\BoxingUnboxing\\Program.cs",
+              "RelativeToolTip": "BoxingUnboxing\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:28:48.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\00.TechCamp\\CSharp_2024-001\\00.Lessons\\Lesson008\\Lesson8\\TypeCopy\\Program.cs",
+              "RelativeDocumentMoniker": "TypeCopy\\Program.cs",
+              "ToolTip": "E:\\00.TechCamp\\CSharp_2024-001\\00.Lessons\\Lesson008\\Lesson8\\TypeCopy\\Program.cs",
+              "RelativeToolTip": "TypeCopy\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAzczMzMwnwBgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:28:34.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 43,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{f2bd8fb8-fc94-3dae-a733-fd993c73cc87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

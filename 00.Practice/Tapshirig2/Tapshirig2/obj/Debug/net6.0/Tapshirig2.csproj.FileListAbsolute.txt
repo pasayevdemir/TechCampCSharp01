@@ -1,0 +1,14 @@
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\00.Practice\Tapshirig2\Tapshirig2\bin\Debug\net6.0\Tapshirig2.exe
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\00.Practice\Tapshirig2\Tapshirig2\bin\Debug\net6.0\Tapshirig2.deps.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\00.Practice\Tapshirig2\Tapshirig2\bin\Debug\net6.0\Tapshirig2.runtimeconfig.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\00.Practice\Tapshirig2\Tapshirig2\bin\Debug\net6.0\Tapshirig2.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\00.Practice\Tapshirig2\Tapshirig2\bin\Debug\net6.0\Tapshirig2.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\00.Practice\Tapshirig2\Tapshirig2\obj\Debug\net6.0\Tapshirig2.GeneratedMSBuildEditorConfig.editorconfig
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\00.Practice\Tapshirig2\Tapshirig2\obj\Debug\net6.0\Tapshirig2.AssemblyInfoInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\00.Practice\Tapshirig2\Tapshirig2\obj\Debug\net6.0\Tapshirig2.AssemblyInfo.cs
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\00.Practice\Tapshirig2\Tapshirig2\obj\Debug\net6.0\Tapshirig2.csproj.CoreCompileInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\00.Practice\Tapshirig2\Tapshirig2\obj\Debug\net6.0\Tapshirig2.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\00.Practice\Tapshirig2\Tapshirig2\obj\Debug\net6.0\refint\Tapshirig2.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\00.Practice\Tapshirig2\Tapshirig2\obj\Debug\net6.0\Tapshirig2.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\00.Practice\Tapshirig2\Tapshirig2\obj\Debug\net6.0\Tapshirig2.genruntimeconfig.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\00.Practice\Tapshirig2\Tapshirig2\obj\Debug\net6.0\ref\Tapshirig2.dll

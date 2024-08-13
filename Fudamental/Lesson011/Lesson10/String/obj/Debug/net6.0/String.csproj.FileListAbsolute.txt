@@ -1,0 +1,14 @@
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson011\Lesson10\String\bin\Debug\net6.0\String.exe
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson011\Lesson10\String\bin\Debug\net6.0\String.deps.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson011\Lesson10\String\bin\Debug\net6.0\String.runtimeconfig.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson011\Lesson10\String\bin\Debug\net6.0\String.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson011\Lesson10\String\bin\Debug\net6.0\String.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson011\Lesson10\String\obj\Debug\net6.0\String.GeneratedMSBuildEditorConfig.editorconfig
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson011\Lesson10\String\obj\Debug\net6.0\String.AssemblyInfoInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson011\Lesson10\String\obj\Debug\net6.0\String.AssemblyInfo.cs
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson011\Lesson10\String\obj\Debug\net6.0\String.csproj.CoreCompileInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson011\Lesson10\String\obj\Debug\net6.0\String.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson011\Lesson10\String\obj\Debug\net6.0\refint\String.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson011\Lesson10\String\obj\Debug\net6.0\String.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson011\Lesson10\String\obj\Debug\net6.0\String.genruntimeconfig.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson011\Lesson10\String\obj\Debug\net6.0\ref\String.dll

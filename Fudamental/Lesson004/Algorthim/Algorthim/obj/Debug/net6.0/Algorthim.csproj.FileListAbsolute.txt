@@ -1,0 +1,14 @@
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson004\Algorthim\Algorthim\bin\Debug\net6.0\Algorthim.exe
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson004\Algorthim\Algorthim\bin\Debug\net6.0\Algorthim.deps.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson004\Algorthim\Algorthim\bin\Debug\net6.0\Algorthim.runtimeconfig.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson004\Algorthim\Algorthim\bin\Debug\net6.0\Algorthim.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson004\Algorthim\Algorthim\bin\Debug\net6.0\Algorthim.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson004\Algorthim\Algorthim\obj\Debug\net6.0\Algorthim.GeneratedMSBuildEditorConfig.editorconfig
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson004\Algorthim\Algorthim\obj\Debug\net6.0\Algorthim.AssemblyInfoInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson004\Algorthim\Algorthim\obj\Debug\net6.0\Algorthim.AssemblyInfo.cs
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson004\Algorthim\Algorthim\obj\Debug\net6.0\Algorthim.csproj.CoreCompileInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson004\Algorthim\Algorthim\obj\Debug\net6.0\Algorthim.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson004\Algorthim\Algorthim\obj\Debug\net6.0\refint\Algorthim.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson004\Algorthim\Algorthim\obj\Debug\net6.0\Algorthim.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson004\Algorthim\Algorthim\obj\Debug\net6.0\Algorthim.genruntimeconfig.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\Lesson004\Algorthim\Algorthim\obj\Debug\net6.0\ref\Algorthim.dll

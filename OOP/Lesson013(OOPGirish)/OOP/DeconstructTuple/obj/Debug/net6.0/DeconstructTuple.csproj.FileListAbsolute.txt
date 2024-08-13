@@ -1,0 +1,14 @@
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\DeconstructTuple\bin\Debug\net6.0\DeconstructTuple.exe
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\DeconstructTuple\bin\Debug\net6.0\DeconstructTuple.deps.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\DeconstructTuple\bin\Debug\net6.0\DeconstructTuple.runtimeconfig.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\DeconstructTuple\bin\Debug\net6.0\DeconstructTuple.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\DeconstructTuple\bin\Debug\net6.0\DeconstructTuple.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\DeconstructTuple\obj\Debug\net6.0\DeconstructTuple.GeneratedMSBuildEditorConfig.editorconfig
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\DeconstructTuple\obj\Debug\net6.0\DeconstructTuple.AssemblyInfoInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\DeconstructTuple\obj\Debug\net6.0\DeconstructTuple.AssemblyInfo.cs
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\DeconstructTuple\obj\Debug\net6.0\DeconstructTuple.csproj.CoreCompileInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\DeconstructTuple\obj\Debug\net6.0\DeconstructTuple.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\DeconstructTuple\obj\Debug\net6.0\refint\DeconstructTuple.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\DeconstructTuple\obj\Debug\net6.0\DeconstructTuple.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\DeconstructTuple\obj\Debug\net6.0\DeconstructTuple.genruntimeconfig.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\DeconstructTuple\obj\Debug\net6.0\ref\DeconstructTuple.dll

@@ -1,0 +1,14 @@
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\InventoryManagmentSystem\bin\Debug\net6.0\InventoryManagmentSystem.exe
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\InventoryManagmentSystem\bin\Debug\net6.0\InventoryManagmentSystem.deps.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\InventoryManagmentSystem\bin\Debug\net6.0\InventoryManagmentSystem.runtimeconfig.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\InventoryManagmentSystem\bin\Debug\net6.0\InventoryManagmentSystem.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\InventoryManagmentSystem\bin\Debug\net6.0\InventoryManagmentSystem.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\InventoryManagmentSystem\obj\Debug\net6.0\InventoryManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\InventoryManagmentSystem\obj\Debug\net6.0\InventoryManagmentSystem.AssemblyInfoInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\InventoryManagmentSystem\obj\Debug\net6.0\InventoryManagmentSystem.AssemblyInfo.cs
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\InventoryManagmentSystem\obj\Debug\net6.0\InventoryManagmentSystem.csproj.CoreCompileInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\InventoryManagmentSystem\obj\Debug\net6.0\InventoryManagmentSystem.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\InventoryManagmentSystem\obj\Debug\net6.0\refint\InventoryManagmentSystem.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\InventoryManagmentSystem\obj\Debug\net6.0\InventoryManagmentSystem.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\InventoryManagmentSystem\obj\Debug\net6.0\InventoryManagmentSystem.genruntimeconfig.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\InventoryManagmentSystem\obj\Debug\net6.0\ref\InventoryManagmentSystem.dll

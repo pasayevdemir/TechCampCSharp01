@@ -1,0 +1,14 @@
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\SignletonPractice\bin\Debug\net6.0\SignletonPractice.exe
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\SignletonPractice\bin\Debug\net6.0\SignletonPractice.deps.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\SignletonPractice\bin\Debug\net6.0\SignletonPractice.runtimeconfig.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\SignletonPractice\bin\Debug\net6.0\SignletonPractice.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\SignletonPractice\bin\Debug\net6.0\SignletonPractice.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\SignletonPractice\obj\Debug\net6.0\SignletonPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\SignletonPractice\obj\Debug\net6.0\SignletonPractice.AssemblyInfoInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\SignletonPractice\obj\Debug\net6.0\SignletonPractice.AssemblyInfo.cs
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\SignletonPractice\obj\Debug\net6.0\SignletonPractice.csproj.CoreCompileInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\SignletonPractice\obj\Debug\net6.0\SignletonPractice.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\SignletonPractice\obj\Debug\net6.0\refint\SignletonPractice.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\SignletonPractice\obj\Debug\net6.0\SignletonPractice.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\SignletonPractice\obj\Debug\net6.0\SignletonPractice.genruntimeconfig.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\SignletonPractice\obj\Debug\net6.0\ref\SignletonPractice.dll
