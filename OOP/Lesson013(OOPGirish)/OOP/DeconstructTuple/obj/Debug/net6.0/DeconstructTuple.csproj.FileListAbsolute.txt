@@ -12,3 +12,4 @@ E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\Deconstru
 E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\DeconstructTuple\obj\Debug\net6.0\DeconstructTuple.pdb
 E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\DeconstructTuple\obj\Debug\net6.0\DeconstructTuple.genruntimeconfig.cache
 E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\DeconstructTuple\obj\Debug\net6.0\ref\DeconstructTuple.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\DeconstructTuple\obj\Debug\net6.0\DeconstructTuple.sourcelink.json

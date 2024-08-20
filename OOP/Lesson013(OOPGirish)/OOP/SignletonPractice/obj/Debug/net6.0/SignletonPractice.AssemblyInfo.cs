@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SignletonPractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e98bfdf2b4749a60d61eb367c825e151b60df2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SignletonPractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SignletonPractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

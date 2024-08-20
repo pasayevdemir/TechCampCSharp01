@@ -1,0 +1,15 @@
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\CarManager\bin\Debug\net6.0\CarManagers.exe
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\CarManager\bin\Debug\net6.0\CarManagers.deps.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\CarManager\bin\Debug\net6.0\CarManagers.runtimeconfig.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\CarManager\bin\Debug\net6.0\CarManagers.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\CarManager\bin\Debug\net6.0\CarManagers.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\CarManager\obj\Debug\net6.0\CarManagers.GeneratedMSBuildEditorConfig.editorconfig
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\CarManager\obj\Debug\net6.0\CarManagers.AssemblyInfoInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\CarManager\obj\Debug\net6.0\CarManagers.AssemblyInfo.cs
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\CarManager\obj\Debug\net6.0\CarManagers.csproj.CoreCompileInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\CarManager\obj\Debug\net6.0\CarManagers.sourcelink.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\CarManager\obj\Debug\net6.0\CarManagers.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\CarManager\obj\Debug\net6.0\refint\CarManagers.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\CarManager\obj\Debug\net6.0\CarManagers.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\CarManager\obj\Debug\net6.0\CarManagers.genruntimeconfig.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\CarManager\obj\Debug\net6.0\ref\CarManagers.dll
