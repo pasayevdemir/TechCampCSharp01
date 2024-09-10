@@ -1,0 +1,15 @@
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\MobilSeller\bin\Debug\net6.0\MobilSeller.exe
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\MobilSeller\bin\Debug\net6.0\MobilSeller.deps.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\MobilSeller\bin\Debug\net6.0\MobilSeller.runtimeconfig.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\MobilSeller\bin\Debug\net6.0\MobilSeller.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\MobilSeller\bin\Debug\net6.0\MobilSeller.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\MobilSeller\obj\Debug\net6.0\MobilSeller.GeneratedMSBuildEditorConfig.editorconfig
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\MobilSeller\obj\Debug\net6.0\MobilSeller.AssemblyInfoInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\MobilSeller\obj\Debug\net6.0\MobilSeller.AssemblyInfo.cs
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\MobilSeller\obj\Debug\net6.0\MobilSeller.csproj.CoreCompileInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\MobilSeller\obj\Debug\net6.0\MobilSeller.sourcelink.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\MobilSeller\obj\Debug\net6.0\MobilSeller.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\MobilSeller\obj\Debug\net6.0\refint\MobilSeller.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\MobilSeller\obj\Debug\net6.0\MobilSeller.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\MobilSeller\obj\Debug\net6.0\MobilSeller.genruntimeconfig.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\OOP\Lesson013(OOPGirish)\OOP\MobilSeller\obj\Debug\net6.0\ref\MobilSeller.dll

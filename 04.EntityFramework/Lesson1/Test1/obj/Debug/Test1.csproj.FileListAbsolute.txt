@@ -1,0 +1,12 @@
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\04.EntityFramework\Lesson1\Test1\bin\Debug\Test1.exe.config
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\04.EntityFramework\Lesson1\Test1\bin\Debug\Test1.exe
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\04.EntityFramework\Lesson1\Test1\bin\Debug\Test1.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\04.EntityFramework\Lesson1\Test1\bin\Debug\EntityFramework.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\04.EntityFramework\Lesson1\Test1\bin\Debug\EntityFramework.SqlServer.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\04.EntityFramework\Lesson1\Test1\bin\Debug\EntityFramework.xml
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\04.EntityFramework\Lesson1\Test1\bin\Debug\EntityFramework.SqlServer.xml
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\04.EntityFramework\Lesson1\Test1\obj\Debug\Test1.csproj.AssemblyReference.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\04.EntityFramework\Lesson1\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\04.EntityFramework\Lesson1\Test1\obj\Debug\Test1.csproj.Up2Date
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\04.EntityFramework\Lesson1\Test1\obj\Debug\Test1.exe
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\04.EntityFramework\Lesson1\Test1\obj\Debug\Test1.pdb

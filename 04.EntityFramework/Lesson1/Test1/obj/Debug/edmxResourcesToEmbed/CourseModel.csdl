@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyCourseDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Cours">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CreateDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="UpdateDate" Type="DateTime" Precision="0" />
+    <Property Name="Deleted" Type="Int32" />
+    <NavigationProperty Name="StudentCourses" Relationship="Self.FK__StudentCo__Cours__3C69FB99" FromRole="Courses" ToRole="StudentCourses" />
+    <NavigationProperty Name="TeacherCourses" Relationship="Self.FK__TeacherCo__Cours__36B12243" FromRole="Courses" ToRole="TeacherCourses" />
+  </EntityType>
+  <EntityType Name="LessonDetail">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TeacherLessonId" Type="Int32" />
+    <Property Name="StudentId" Type="Int32" />
+    <Property Name="CreateDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="UpdateDate" Type="DateTime" Precision="0" />
+    <Property Name="Deleted" Type="Int32" />
+    <NavigationProperty Name="Student" Relationship="Self.FK__LessonDet__Stude__47DBAE45" FromRole="LessonDetails" ToRole="Students" />
+    <NavigationProperty Name="TeachersLesson" Relationship="Self.FK__LessonDet__Teach__46E78A0C" FromRole="LessonDetails" ToRole="TeachersLessons" />
+  </EntityType>
+  <EntityType Name="Lesson">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="LessonName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CreateDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="UpdateDate" Type="DateTime" Precision="0" />
+    <Property Name="Deleted" Type="Int32" />
+    <NavigationProperty Name="TeachersLessons" Relationship="Self.FK__TeachersL__Lesso__4222D4EF" FromRole="Lessons" ToRole="TeachersLessons" />
+  </EntityType>
+  <EntityType Name="StudentCours">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StudentId" Type="Int32" />
+    <Property Name="CourseId" Type="Int32" />
+    <Property Name="CreateDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="UpdateDate" Type="DateTime" Precision="0" />
+    <Property Name="Deleted" Type="Int32" />
+    <NavigationProperty Name="Cours" Relationship="Self.FK__StudentCo__Cours__3C69FB99" FromRole="StudentCourses" ToRole="Courses" />
+    <NavigationProperty Name="Student" Relationship="Self.FK__StudentCo__Stude__3B75D760" FromRole="StudentCourses" ToRole="Students" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Surname" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CreateDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="UpdateDate" Type="DateTime" Precision="0" />
+    <Property Name="Deleted" Type="Int32" />
+    <NavigationProperty Name="LessonDetails" Relationship="Self.FK__LessonDet__Stude__47DBAE45" FromRole="Students" ToRole="LessonDetails" />
+    <NavigationProperty Name="StudentCourses" Relationship="Self.FK__StudentCo__Stude__3B75D760" FromRole="Students" ToRole="StudentCourses" />
+  </EntityType>
+  <EntityType Name="TeacherCours">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TeacherId" Type="Int32" />
+    <Property Name="CourseId" Type="Int32" />
+    <Property Name="CreateDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="UpdateDate" Type="DateTime" Precision="0" />
+    <Property Name="Deleted" Type="Int32" />
+    <NavigationProperty Name="Cours" Relationship="Self.FK__TeacherCo__Cours__36B12243" FromRole="TeacherCourses" ToRole="Courses" />
+    <NavigationProperty Name="Teacher" Relationship="Self.FK__TeacherCo__Teach__35BCFE0A" FromRole="TeacherCourses" ToRole="Teachers" />
+  </EntityType>
+  <EntityType Name="Teacher">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Surname" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Age" Type="Byte" Nullable="false" />
+    <Property Name="CreateDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="UpdateDate" Type="DateTime" Precision="0" />
+    <Property Name="Deleted" Type="Int32" />
+    <NavigationProperty Name="TeacherCourses" Relationship="Self.FK__TeacherCo__Teach__35BCFE0A" FromRole="Teachers" ToRole="TeacherCourses" />
+    <NavigationProperty Name="TeachersLessons" Relationship="Self.FK__TeachersL__Teach__412EB0B6" FromRole="Teachers" ToRole="TeachersLessons" />
+  </EntityType>
+  <EntityType Name="TeachersLesson">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TeacherId" Type="Int32" />
+    <Property Name="LessonId" Type="Int32" />
+    <Property Name="StartTime" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="EndTime" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="LessonCredits" Type="Byte" Nullable="false" />
+    <Property Name="CreateDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="UpdateDate" Type="DateTime" Precision="0" />
+    <Property Name="Deleted" Type="Int32" />
+    <NavigationProperty Name="LessonDetails" Relationship="Self.FK__LessonDet__Teach__46E78A0C" FromRole="TeachersLessons" ToRole="LessonDetails" />
+    <NavigationProperty Name="Lesson" Relationship="Self.FK__TeachersL__Lesso__4222D4EF" FromRole="TeachersLessons" ToRole="Lessons" />
+    <NavigationProperty Name="Teacher" Relationship="Self.FK__TeachersL__Teach__412EB0B6" FromRole="TeachersLessons" ToRole="Teachers" />
+  </EntityType>
+  <Association Name="FK__StudentCo__Cours__3C69FB99">
+    <End Role="Courses" Type="Self.Cours" Multiplicity="0..1" />
+    <End Role="StudentCourses" Type="Self.StudentCours" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Courses">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="StudentCourses">
+        <PropertyRef Name="CourseId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TeacherCo__Cours__36B12243">
+    <End Role="Courses" Type="Self.Cours" Multiplicity="0..1" />
+    <End Role="TeacherCourses" Type="Self.TeacherCours" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Courses">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TeacherCourses">
+        <PropertyRef Name="CourseId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__LessonDet__Stude__47DBAE45">
+    <End Role="Students" Type="Self.Student" Multiplicity="0..1" />
+    <End Role="LessonDetails" Type="Self.LessonDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="LessonDetails">
+        <PropertyRef Name="StudentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__LessonDet__Teach__46E78A0C">
+    <End Role="TeachersLessons" Type="Self.TeachersLesson" Multiplicity="0..1" />
+    <End Role="LessonDetails" Type="Self.LessonDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TeachersLessons">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="LessonDetails">
+        <PropertyRef Name="TeacherLessonId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TeachersL__Lesso__4222D4EF">
+    <End Role="Lessons" Type="Self.Lesson" Multiplicity="0..1" />
+    <End Role="TeachersLessons" Type="Self.TeachersLesson" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Lessons">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TeachersLessons">
+        <PropertyRef Name="LessonId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__StudentCo__Stude__3B75D760">
+    <End Role="Students" Type="Self.Student" Multiplicity="0..1" />
+    <End Role="StudentCourses" Type="Self.StudentCours" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="StudentCourses">
+        <PropertyRef Name="StudentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TeacherCo__Teach__35BCFE0A">
+    <End Role="Teachers" Type="Self.Teacher" Multiplicity="0..1" />
+    <End Role="TeacherCourses" Type="Self.TeacherCours" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Teachers">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TeacherCourses">
+        <PropertyRef Name="TeacherId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TeachersL__Teach__412EB0B6">
+    <End Role="Teachers" Type="Self.Teacher" Multiplicity="0..1" />
+    <End Role="TeachersLessons" Type="Self.TeachersLesson" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Teachers">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TeachersLessons">
+        <PropertyRef Name="TeacherId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MyCourseDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Courses" EntityType="Self.Cours" />
+    <EntitySet Name="LessonDetails" EntityType="Self.LessonDetail" />
+    <EntitySet Name="Lessons" EntityType="Self.Lesson" />
+    <EntitySet Name="StudentCourses" EntityType="Self.StudentCours" />
+    <EntitySet Name="Students" EntityType="Self.Student" />
+    <EntitySet Name="TeacherCourses" EntityType="Self.TeacherCours" />
+    <EntitySet Name="Teachers" EntityType="Self.Teacher" />
+    <EntitySet Name="TeachersLessons" EntityType="Self.TeachersLesson" />
+    <AssociationSet Name="FK__StudentCo__Cours__3C69FB99" Association="Self.FK__StudentCo__Cours__3C69FB99">
+      <End Role="Courses" EntitySet="Courses" />
+      <End Role="StudentCourses" EntitySet="StudentCourses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TeacherCo__Cours__36B12243" Association="Self.FK__TeacherCo__Cours__36B12243">
+      <End Role="Courses" EntitySet="Courses" />
+      <End Role="TeacherCourses" EntitySet="TeacherCourses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__LessonDet__Stude__47DBAE45" Association="Self.FK__LessonDet__Stude__47DBAE45">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="LessonDetails" EntitySet="LessonDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK__LessonDet__Teach__46E78A0C" Association="Self.FK__LessonDet__Teach__46E78A0C">
+      <End Role="TeachersLessons" EntitySet="TeachersLessons" />
+      <End Role="LessonDetails" EntitySet="LessonDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TeachersL__Lesso__4222D4EF" Association="Self.FK__TeachersL__Lesso__4222D4EF">
+      <End Role="Lessons" EntitySet="Lessons" />
+      <End Role="TeachersLessons" EntitySet="TeachersLessons" />
+    </AssociationSet>
+    <AssociationSet Name="FK__StudentCo__Stude__3B75D760" Association="Self.FK__StudentCo__Stude__3B75D760">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="StudentCourses" EntitySet="StudentCourses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TeacherCo__Teach__35BCFE0A" Association="Self.FK__TeacherCo__Teach__35BCFE0A">
+      <End Role="Teachers" EntitySet="Teachers" />
+      <End Role="TeacherCourses" EntitySet="TeacherCourses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TeachersL__Teach__412EB0B6" Association="Self.FK__TeachersL__Teach__412EB0B6">
+      <End Role="Teachers" EntitySet="Teachers" />
+      <End Role="TeachersLessons" EntitySet="TeachersLessons" />
+    </AssociationSet>
+    <FunctionImport Name="AddStudent">
+      <Parameter Name="Name" Mode="In" Type="String" />
+      <Parameter Name="Surname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SoftDeletedStudent">
+      <Parameter Name="DeletedID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="UpdateStudent">
+      <Parameter Name="UpdateID" Mode="In" Type="Int32" />
+      <Parameter Name="Name" Mode="In" Type="String" />
+      <Parameter Name="Surname" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+</Schema>

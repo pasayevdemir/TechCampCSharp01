@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="dd8481e571404f9a9e801b06beead3c5" Name="Diagram1">
+        <EntityTypeShape EntityType="MyCourseDBModel.Cours" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyCourseDBModel.LessonDetail" Width="1.5" PointX="8.25" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyCourseDBModel.Lesson" Width="1.5" PointX="3.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyCourseDBModel.StudentCours" Width="1.5" PointX="8.25" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyCourseDBModel.Student" Width="1.5" PointX="6" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyCourseDBModel.TeacherCours" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyCourseDBModel.Teacher" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyCourseDBModel.TeachersLesson" Width="1.5" PointX="6" PointY="4.5" IsExpanded="true" />
+        <AssociationConnector Association="MyCourseDBModel.FK__StudentCo__Cours__3C69FB99" ManuallyRouted="false" />
+        <AssociationConnector Association="MyCourseDBModel.FK__TeacherCo__Cours__36B12243" ManuallyRouted="false" />
+        <AssociationConnector Association="MyCourseDBModel.FK__LessonDet__Stude__47DBAE45" ManuallyRouted="false" />
+        <AssociationConnector Association="MyCourseDBModel.FK__LessonDet__Teach__46E78A0C" ManuallyRouted="false" />
+        <AssociationConnector Association="MyCourseDBModel.FK__TeachersL__Lesso__4222D4EF" ManuallyRouted="false" />
+        <AssociationConnector Association="MyCourseDBModel.FK__StudentCo__Stude__3B75D760" ManuallyRouted="false" />
+        <AssociationConnector Association="MyCourseDBModel.FK__TeacherCo__Teach__35BCFE0A" ManuallyRouted="false" />
+        <AssociationConnector Association="MyCourseDBModel.FK__TeachersL__Teach__412EB0B6" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
