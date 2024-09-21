@@ -1,0 +1,15 @@
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\06.Principes\Principes\Principes\obj\Debug\net6.0\Principes.GeneratedMSBuildEditorConfig.editorconfig
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\06.Principes\Principes\Principes\obj\Debug\net6.0\Principes.AssemblyInfoInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\06.Principes\Principes\Principes\obj\Debug\net6.0\Principes.AssemblyInfo.cs
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\06.Principes\Principes\Principes\obj\Debug\net6.0\Principes.csproj.CoreCompileInputs.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\06.Principes\Principes\Principes\obj\Debug\net6.0\Principes.sourcelink.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\06.Principes\Principes\Principes\bin\Debug\net6.0\Principes.exe
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\06.Principes\Principes\Principes\bin\Debug\net6.0\Principes.deps.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\06.Principes\Principes\Principes\bin\Debug\net6.0\Principes.runtimeconfig.json
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\06.Principes\Principes\Principes\bin\Debug\net6.0\Principes.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\06.Principes\Principes\Principes\bin\Debug\net6.0\Principes.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\06.Principes\Principes\Principes\obj\Debug\net6.0\Principes.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\06.Principes\Principes\Principes\obj\Debug\net6.0\refint\Principes.dll
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\06.Principes\Principes\Principes\obj\Debug\net6.0\Principes.pdb
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\06.Principes\Principes\Principes\obj\Debug\net6.0\Principes.genruntimeconfig.cache
+E:\00.TechCamp\CSharp_2024-001\00.Lessons\06.Principes\Principes\Principes\obj\Debug\net6.0\ref\Principes.dll

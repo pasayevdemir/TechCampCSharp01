@@ -1,0 +1,13 @@
+﻿@model Student
+<form method="post" asp-action="Index" asp-controller="Home">
+    <span style="color:red;">@(TempData["UIMessage"] != null ? TempData["UIMessage"].ToString() : "") </span>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">FirstName</label>
+        <input asp-for="FirstName" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label class="form-label">LastName</label>
+        <input asp-for="LastName" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-primary">Add Student</button>
+</form>
